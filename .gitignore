@@ -1,0 +1,16 @@
+# Python / backend
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.db          # SQLite é recriado automaticamente ao iniciar a API
+
+# Node / frontend
+node_modules/
+dist/
+*.local
+
+# Editores / SO
+.vscode/
+.DS_Store
