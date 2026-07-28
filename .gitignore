@@ -4,12 +4,24 @@ __pycache__/
 .venv/
 venv/
 env/
-*.db          # SQLite é recriado automaticamente ao iniciar a API
+# SQLite é recriado automaticamente ao iniciar a API.
+# ATENÇÃO: o comentário precisa ficar em linha própria — o git não aceita
+# comentário no fim da linha, ele vira parte do padrão e a regra não funciona.
+*.db
+*.sqlite
+*.sqlite3
 
 # Node / frontend
 node_modules/
 dist/
 *.local
+
+# Segredos — nunca versionar
+.env
+.env.*
+!.env.exemplo
+*.key
+*.pem
 
 # Editores / SO
 .vscode/
