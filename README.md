@@ -101,4 +101,4 @@ MIT — veja [LICENSE](./LICENSE).
 
 ---
 
-Feito por **Iasmin Ribeiro de Souza** · [LinkedIn](https://linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/IasminRDS)
+Feito por **Iasmin Ribeiro de Souza** · [LinkedIn](https://www.linkedin.com/in/iasmin-ribeiro-de-souza-033536401) · [GitHub](https://github.com/IasminRDS)
